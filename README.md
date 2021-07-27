@@ -31,3 +31,6 @@
 
 ### 4. wine Recommendation 
 ![image](https://user-images.githubusercontent.com/73736988/125593542-dd3b4cec-057a-4cd7-aab4-cd751064bd25.png)
+
+### 5. Covid Dashboard
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c87cceb-d5ea-4c2c-a3b5-51d5557e03ca/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c87cceb-d5ea-4c2c-a3b5-51d5557e03ca/Untitled.png)
