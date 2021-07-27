@@ -14,7 +14,7 @@
   
   
 ## Contact
- - Resume : https://www.notion.so/User-Centric-Simple-is-Best-e1e0563c57eb4f17a365f949cc78df9b
+ - Resume : https://www.notion.so/User-Centric-Simple-is-Best-ed646a6c04f340e6b5804a636feeab4e
  - Email : englishmt4118@gmail.com
  - Blog : https://daje0601.tistory.com/
   
