@@ -19,7 +19,7 @@
  - Blog : https://daje0601.tistory.com/
   
   
-## Personal Projects
+## Personal Projects  
 ### 1. User Behavior pattern Analysis 
 [🔗GitHub Link](https://github.com/daje0601/Behavioral-pattern-analysis)
 ![image](https://user-images.githubusercontent.com/73736988/125594329-adb073da-0d42-4636-9352-d61ac82f85d2.png)
