@@ -14,7 +14,7 @@
   
   
 ## Contact
- - Resume : https://www.notion.so/User-Centric-Simple-is-Best-ed646a6c04f340e6b5804a636feeab4e
+ - Resume : https://dasol.oopy.io
  - Email : englishmt4118@gmail.com
  - Blog : https://daje0601.tistory.com/
   
