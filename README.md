@@ -6,12 +6,15 @@
   
   
 ## Stack
-- **[ ML/DL Modeling ]** Python, Pandas, Numpy, Sklearn, Keras, Tensorflow
-- **[ Data Collection ]** Selenium, Crawling, MySQL
-- **[ Computer Vision ]** YOLO4, OpenCV
-- **[ Web Front ]** Plotly Dash Board, HTML/CSS
-- **[ statistics ]** A/B test, Cohort Analytics, statsmodels, scipy
 - **[ Tools ]** Google Analytics, GTM, Firebase, Google Optimize, Google Data Studio 
+- **[ statistics ]** A/B test, Cohort Analytics, statsmodels, scipy
+- **[ SQL ]**  MySQL, Bigquery
+
+- **[ ML/DL Modeling ]** Python, Pandas, Numpy, Sklearn, Keras, Tensorflow
+- **[ Computer Vision ]** YOLO4, OpenCV
+ 
+- **[ Data Collection ]** Selenium, Crawling
+- **[ Web Front ]** Plotly Dash Board, HTML/CSS
 - **[ Etc. ]** Github, Notion, slakc, MS Office
   
   
