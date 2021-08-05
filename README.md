@@ -10,7 +10,9 @@
 - **[ Data Collection ]** Selenium, Crawling, MySQL
 - **[ Computer Vision ]** YOLO4, OpenCV
 - **[ Web Front ]** Plotly Dash Board, HTML/CSS
-- **[ Etc. ]** Github, Notion, MS Office
+- **[ statistics ]** A/B test, Cohort Analytics, statsmodels, scipy
+- **[ Tools ]** Google Analytics, GTM, Firebase, Google Optimize, Google Data Studio 
+- **[ Etc. ]** Github, Notion, slakc, MS Office
   
   
 ## Contact
@@ -20,6 +22,12 @@
   
   
 ## Personal Projects  
+### 0. A/B 테스트, Cohort분석을 활용한 고객분석
+[🔗GitHub Link](https://github.com/daje0601/AB_Test_-_Cohort_analytic)  
+![image](https://user-images.githubusercontent.com/73736988/128311917-3f2475fa-aaf7-404f-a191-81d334b4810d.png)  
+![image](https://user-images.githubusercontent.com/73736988/128312013-8d56dc10-44f6-4faf-82ed-5c1aaf1aecd5.png)
+
+
 ### 1. User Behavior pattern Analysis 
 [🔗GitHub Link](https://github.com/daje0601/Behavioral-pattern-analysis)
 ![image](https://user-images.githubusercontent.com/73736988/125594329-adb073da-0d42-4636-9352-d61ac82f85d2.png)
