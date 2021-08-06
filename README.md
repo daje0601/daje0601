@@ -6,7 +6,7 @@
   
   
 ## Stack
-- **[ Tools ]** Google Analytics, GTM, Firebase, Google Optimize, Google Data Studio 
+- **[ Tools ]** Google Analytics, Firebase, Google Data Studio 
 - **[ statistics ]** A/B test, Cohort Analytics, statsmodels, scipy
 - **[ SQL ]**  MySQL, Bigquery
 
