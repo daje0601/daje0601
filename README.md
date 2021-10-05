@@ -1,8 +1,11 @@
 
-## 👋 Hello World, I’m Dasol Kang
+## About Me
 
- - The answer is always in the data, so I try to dig deeper into the data.  
- - Most of all, I love solving real-world problems with great colleagues.
+- 안녕하세요! 데이터 분석가 강다솔입니다.
+- 무엇보다도 꾸준함의 가치를 알기에 **1일 1커밋 운동**과 **기술블로그**를 운영하고 있습니다.
+- 문제를 접근하기 전 **[ 해결하고 싶은 문제 정의와 그 가치의 크기 ]**에 대해 심도 깊게 고민합니다.
+- 보유한 기술을 활용하여 주변 사람들의 어려움을 해결하는데 관심이 많습니다.
+- 제가 가진 일의 철학은 **"회사는 인생의 학교요, 함께 배우는 삶의 현장이다"** 입니다.
   
   
 ## Stack
