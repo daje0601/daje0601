@@ -6,22 +6,16 @@
   
   
 ## Stack
-- **[ Tools ]** Google Analytics, Firebase, Google Data Studio 
-- **[ statistics ]** A/B test, Cohort Analytics, statsmodels, scipy
-- **[ SQL ]**  MySQL, Bigquery
-
-- **[ ML/DL Modeling ]** Python, Pandas, Numpy, Sklearn, Keras, Tensorflow
-- **[ Computer Vision ]** YOLO4, OpenCV
- 
-- **[ Data Collection ]** Selenium, Crawling
-- **[ Web Front ]** Plotly Dash Board, HTML/CSS
+- **[ ML/DL Modeling ]** Python, Tensorflow
+- **[ Computer Vision ]** YOLO, OpenCV
+- **[ SQL ]**  MySQL
+- **[ Web Front ]** HTML5/CSS3
 - **[ Etc. ]** Github, Notion, slakc, MS Office
-  
   
 ## Contact
  - Portfolio : https://dasol.oopy.io
  - Email : englishmt4118@gmail.com
- - Blog : https://daje0601.tistory.com/
+ - Blog : https://daje0601.tistory.com/287
   
   
 ## Personal Projects  
