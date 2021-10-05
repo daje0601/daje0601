@@ -22,7 +22,6 @@
 ### 0. A/B 테스트, Cohort분석을 활용한 고객분석
 [🔗GitHub Link](https://github.com/daje0601/AB_Test_-_Cohort_analytic)  
 ![image](https://user-images.githubusercontent.com/73736988/128311917-3f2475fa-aaf7-404f-a191-81d334b4810d.png)  
-![image](https://user-images.githubusercontent.com/73736988/128312013-8d56dc10-44f6-4faf-82ed-5c1aaf1aecd5.png)
 
 
 ### 1. User Behavior pattern Analysis 
