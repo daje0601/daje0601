@@ -11,7 +11,7 @@
 ## Stack
 - **[ ML/DL Modeling ]** Python, Tensorflow
 - **[ Computer Vision ]** YOLO, OpenCV
-- **[ SQL ]**  MySQL
+- **[ SQL ]**  MySQL, ostgre
 - **[ Web Front ]** HTML5/CSS3
 - **[ Etc. ]** Github, Notion, slakc, MS Office
   
