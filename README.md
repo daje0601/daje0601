@@ -16,7 +16,6 @@
 - **[ Etc. ]** Github, Notion, slakc, MS Office
   
 ## Contact
- - Portfolio : https://dasol.oopy.io
  - Email : englishmt4118@gmail.com
  - Blog : https://daje0601.tistory.com/287
   
