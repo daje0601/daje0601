@@ -30,10 +30,12 @@
 [🔗GitHub Link](https://github.com/daje0601/YOLO_MASK_TEMPERATURE_DEDECTION)  
 <img src="https://user-images.githubusercontent.com/73736988/125593413-c1f5ae95-febe-43ba-bf5a-c257f9dcb878.png"  width="800" height="450"/>
 
+### Covid Dashboard
+[🔗GitHub Link](https://github.com/daje0601/covid19-dashboard)  
+<img src="https://user-images.githubusercontent.com/73736988/127082333-bcf25a21-992d-4b05-a9ab-d36cd37865f3.png"  width="800" height="450"/>
+
 ### wine Recommendation 
 [🔗GitHub Link](https://github.com/daje0601/DS_project)  
 <img src="https://user-images.githubusercontent.com/73736988/125593542-dd3b4cec-057a-4cd7-aab4-cd751064bd25.png"  width="800" height="450"/>
  
-### Covid Dashboard
-[🔗GitHub Link](https://github.com/daje0601/covid19-dashboard)  
-<img src="https://user-images.githubusercontent.com/73736988/127082333-bcf25a21-992d-4b05-a9ab-d36cd37865f3.png"  width="800" height="450"/>
+
