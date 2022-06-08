@@ -12,9 +12,8 @@
 - **[ ML/DL Modeling ]** Python, Tensorflow
 - **[ Vision ]** CLIP, CLIPCAP, YOLO, OpenCV
 - **[ NLP ]** Transformer, Bert, Blenderbot2.0, DPR, FiD
-- **[ SQL ]**  MySQL, ostgre
 - **[ Web Front ]** HTML5/CSS3
-- **[ Etc. ]** Github, Notion, slakc, MS Office
+- **[ Etc. ]** MySQL, Github, Notion, slakc, MS Office
   
 ## Contact
  - Email : englishmt4118@gmail.com
