@@ -21,22 +21,3 @@
  - Blog : https://daje0601.tistory.com/287
   
   
-## Personal Projects  
-
-### Modu Company Analysis 
-[🔗GitHub Link](https://dasol.oopy.io/f8eed4e1-d4f5-4544-a88d-9656c6da56f0) 
-<img src="https://user-images.githubusercontent.com/73736988/125594023-4f0a134e-7ec1-4a9b-8a1b-888ee360e274.png"  width="800" height="450"/>
-                                                                                                                                         
-### MTQ(Mask, Temperature, QRcode) project
-[🔗GitHub Link](https://github.com/daje0601/YOLO_MASK_TEMPERATURE_DEDECTION)  
-<img src="https://user-images.githubusercontent.com/73736988/125593413-c1f5ae95-febe-43ba-bf5a-c257f9dcb878.png"  width="800" height="450"/>
-
-### Covid Dashboard
-[🔗GitHub Link](https://github.com/daje0601/covid19-dashboard)  
-<img src="https://user-images.githubusercontent.com/73736988/127082333-bcf25a21-992d-4b05-a9ab-d36cd37865f3.png"  width="800" height="450"/>
-
-### wine Recommendation 
-[🔗GitHub Link](https://github.com/daje0601/DS_project)  
-<img src="https://user-images.githubusercontent.com/73736988/125593542-dd3b4cec-057a-4cd7-aab4-cd751064bd25.png"  width="800" height="450"/>
- 
-
