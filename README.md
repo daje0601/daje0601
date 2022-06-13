@@ -13,7 +13,7 @@
 - **[ Vision ]** CLIP, CLIPCAP, YOLO, OpenCV
 - **[ NLP ]** Transformer, Bert, Blenderbot2.0, DPR, FiD
 - **[ Web Front ]** HTML5/CSS3
-- **[ Etc. ]** MySQL, Github, Notion, slakc, MS Office
+- **[ Etc. ]** MySQL, Github, Notion, slack, MS Office
   
 ## Contact
  - Email : englishmt4118@gmail.com
