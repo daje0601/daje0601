@@ -8,13 +8,6 @@
 - 제가 가진 일의 철학은 **"회사는 인생의 학교요, 함께 배우는 삶의 현장이다"** 입니다.
   
   
-## Stack
-- **[ ML/DL Modeling ]** Python, Tensorflow
-- **[ Vision ]** CLIP, CLIPCAP, YOLO, OpenCV
-- **[ NLP ]** Transformer, Bert, Blenderbot2.0, DPR, FiD
-- **[ Web Front ]** HTML5/CSS3
-- **[ Etc. ]** MySQL, Github, Notion, slack, MS Office
-  
 ## Contact
  - Email : englishmt4118@gmail.com
  - Blog : https://daje0601.tistory.com/287
