@@ -10,6 +10,6 @@
   
 ## Contact
  - Email : englishmt4118@gmail.com
- - Blog : https://daje0601.tistory.com/287
+ - Blog : https://dajeblog.co.kr/
   
   
