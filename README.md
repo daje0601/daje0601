@@ -1,13 +1,14 @@
 
 ## About Me
+👋 AI research Engineer 강다솔입니다.  
+🔬 AI 연구와 개발에 열정을 가진 엔지니어입니다.  
+🌱 새로운 기술을 배우고 적용하는 것을 즐깁니다.  
+🤝 주변 사람들의 어려움을 AI기술을 활용하여 해결하는데 관심이 많아요!   
+💡 "제일 재미있는 건 인공지능을 연구하는 일이에요!"  
 
-- 안녕하세요! AI research Engineer 강다솔입니다.
-- 보유한 기술을 활용하여 주변 사람들의 어려움을 해결하는데 관심이 많습니다.
-- 제가 가진 일의 철학은 **"회사는 인생의 학교요, 함께 배우는 삶의 현장이다"** 입니다.
-  
-  
-## Contact
- - Email : englishmt4118@gmail.com
- - Blog : https://dajeblog.co.kr/
-  
-  
+## 주요 관심사
+- NLP
+- Multi-Modal
+- RL
+- STT & TTS
+
