@@ -1,14 +1,12 @@
 
 ## About Me
-👋 AI research Engineer 강다솔입니다.  
-🔬 AI 연구와 개발에 열정을 가진 엔지니어입니다.  
-🌱 새로운 기술을 배우고 적용하는 것을 즐깁니다.  
-🤝 주변 사람들의 어려움을 AI기술을 활용하여 해결하는데 관심이 많아요!   
-💡 "제일 재미있는 건 인공지능을 연구하는 일이에요!"  
+AI Research Engineer 강다솔입니다.  
+Frontend, Backend, AI를 넘나들며, 문제를 해결하는 것이 개발자의 본질이라는 철학으로 일합니다.  
+특히 주변 사람들이 겪는 어려움을 AI 기술로 풀어내는 데 관심이 많습니다.
+
 
 ## 주요 관심사
-- NLP
-- Multi-Modal
-- RL
-- STT & TTS
-
+- LLM Tuning 
+- STT & TTS Tuning 
+- Inference Optimization 
+- 3D AI model Tuning 
